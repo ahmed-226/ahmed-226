@@ -41,7 +41,4 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
   <a href="mailto:ahmedmhmoud428@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 10px;" alt="Gmail">
   </a>
-  <a href="https://discord.com/users/ahmeed226">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="margin-right: 10px;" alt="Discord">
-  </a>
 </p>
