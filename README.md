@@ -53,9 +53,6 @@ I'm a **Systems and Biomedical Engineering Student** at Faculty of Engineering-C
   <a href="mailto:ahmedmhmoud428@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 10px;" alt="Gmail">
   </a>
-  <a href="https://www.hackerrank.com/profile/ahmedmhmouad41">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" style="margin-right: 10px;" alt="HackerRank">
-  </a>
 </p>
 
 
