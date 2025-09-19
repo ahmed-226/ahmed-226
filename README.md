@@ -9,7 +9,7 @@
 
 I'm a **Systems and Biomedical Engineering Student** at Faculty of Engineering-Cairo University with a passion for Software Development and Problem-Solving.
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile views](https://komarev.com/ghpvc/?username=ahmed-226)
 - 🌍 Based in Egypt
 - 🔭 Currently working on full-stack web applications
 - 🌱 Always learning and improving my skills
