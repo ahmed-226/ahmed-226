@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Systems and Biomedical Engineering Student** at Faculty of Engineering-Cairo University with a passion for Software Development and Problem-Solving.
+I am a Software Engineer and recent Systems and Biomedical Engineering graduate from Cairo University. I focus on developing full-stack web applications, distributed backend services, and scalable cloud infrastructure. I am currently building lightweight REST APIs and exploring advanced system design concepts. Open to collaborating on backend infrastructure and impactful open-source software applications. Based in Cairo, Egypt.  
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmed-226)
 - 🌍 Based in Egypt
